@@ -1,16 +1,20 @@
-## Hi there 👋
+# Oi, eu sou o Jonas 👋
 
-<!--
-**jonasrdsg/jonasrdsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web designer e desenvolvedor em Maringá/PR. Crio produtos digitais premium —
+link bios, landing pages, sites e lojas — para profissionais da beleza,
+imobiliárias e pequenos negócios. À frente dos projetos da **Octopus Agência**.
 
-Here are some ideas to get you started:
+### O que eu faço
+- Link bios e landing pages de alta conversão
+- Sites em WordPress/Elementor e HTML/CSS/JS sob medida
+- Plugins para Photoshop (UXP) e automações com IA
+- Design para redes sociais, apresentações e identidade visual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas
+HTML · CSS · JavaScript · Python · WordPress · Elementor · Figma · Photoshop · Meta Ads · Claude/IA
+
+### Onde me encontrar
+🌐 [links.jonasdsg.com.br](https://links.jonasdsg.com.br) ·
+🎨 [Behance](https://behance.net/jonasdsg) ·
+📸 [Instagram](https://instagram.com/_ojonasrodrigues) ·
+📌 [Pinterest](https://br.pinterest.com/Jonasdesignerbeauty)
